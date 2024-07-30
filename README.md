@@ -4,7 +4,9 @@ This is the final project for the course Human-Robot Interaction.
 
 ## Overview
 
-Human pose is a powerful tool for robots to inspect the intentions and attitudes of humans. In most cases, one RGB camera is sufficient for this task.
+Human pose is a powerful tool for robots to inspect the intentions and attitudes of humans. In most cases, one RGB camera is sufficient for this task. 
+
+This project was developed using the p5.js library and the PoseNet model, and was inspired by tutorials from [The Coding Train](https://thecodingtrain.com/).
 
 ## Prerequisites
 
